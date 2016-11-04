@@ -9,7 +9,7 @@
 import random
 
 def rand(i):
-	  print random.sample(range(1,i+1),i)
+    print random.sample(range(1,i+1),i)
 	
 #######################################
 #    
